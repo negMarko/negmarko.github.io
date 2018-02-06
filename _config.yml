@@ -30,9 +30,9 @@ force-https: True
 
 lang: "es"
 author: "Neg Marko"
-title: "Fisica 1"
+title: "C76"
 description: "Blog Fisica 1."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "Fisica, blog, c76"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Blog para la clase de Fisica 1."
+  - text: "Aqui ira algo que describa"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -122,7 +122,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 syntax-highlight: True
 
@@ -156,7 +156,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Profesor de Fisica y Tics."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -169,9 +169,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/"
   - title: "rss"
     url: "/feed.xml"
 
@@ -185,7 +183,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: negmrk
 keybase-in-social: True
 keybase-in-footer: True
 
