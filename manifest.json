@@ -2,6 +2,9 @@
 ---
 
 {
+  "short_name": "C76",
+  "theme_color": "#212121",
+  "background_color": "#212121",
   "name": "{{site.title}}",
   "icons": [
     {
