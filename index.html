@@ -7,3 +7,10 @@ sitemap:
 <!--
 If you want to have a static message in your intro layout, disable the dynamic-typing in the _config.yml and write here your text
 -->
+<script>
+    if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+               .register('sw.js')
+               .then(function() { console.log("Service Worker Registered"); });
+    }
+</script>
