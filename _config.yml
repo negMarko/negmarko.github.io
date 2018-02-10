@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Blog de apoyo para Física 1"
 
-me-img: "/img/escritorio.png"
+me-img: "/img/fisica5.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -93,12 +93,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/icon0.png"
-icon-48p: "/img/web-app/icon1.png"
-icon-72p: "/img/web-app/icon2.png"
-icon-96p: "/img/web-app/icon3.png"
-icon-144p: "/img/web-app/icon4.png"
-icon-192p: "/img/web-app/icon5.png"
+icon-36p: "/img/web-app/fisica0.png"
+icon-48p: "/img/web-app/fisica1.png"
+icon-72p: "/img/web-app/fisica2.png"
+icon-96p: "/img/web-app/fisica3.png"
+icon-144p: "/img/web-app/fisica4.png"
+icon-192p: "/img/web-app/fisica5.png"
 
 ########
 # Blog #
@@ -155,7 +155,7 @@ email: "negus.marko@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb:
+author_blurb: "Docente de Física 1 y TICs, Ing. en Computación egresado de la UNAM"
 author_blurb_image: "/img/giphy.gif"
 
 ##################
