@@ -104,7 +104,7 @@ icon-192p: "/img/web-app/fisica5.png"
 # Blog #
 ########
 
-enable-gesture-navigation: False
+enable-gesture-navigation: True
 
 post-preview-words: 96
 
@@ -163,10 +163,6 @@ author_blurb_image: "/img/giphy.gif"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/"
   - title: "rss"
