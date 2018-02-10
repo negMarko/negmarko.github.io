@@ -7,16 +7,16 @@
     <i id="hand-swipe" class="fa fa-hand-o-up"></i>
     <p><strong>
     {% if page.section-type == "blog" %}
-      Did you know that you can navigate the archive pages by swiping left and right?
+      ¿Sabía que puede navegar por las páginas de archivo deslizando el dedo hacia la izquierda y hacia la derecha?
     {% elsif page.section-type == "post" %}
-      Did you know that you can navigate the posts by swiping left and right?
+      ¿Sabía que puede navegar por las publicaciones deslizando el dedo hacia la izquierda y hacia la derecha?
     {% endif %}
     </strong></p>
     <button type="button" class="btn btn-default ok-btn close-swipe-instruction">
       {% if page.section-type == "blog" %}
-        Got it!
+        Intentalo!
       {% elsif page.section-type == "post" %}
-        Awesome!
+        Sorprendente!
       {% endif %}
     </button>
   </div>
