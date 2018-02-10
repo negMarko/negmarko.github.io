@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Blog de apoyo para Fisica 1"
-  - text: "Complemento para los apuntes de la clase"
+  - text: "Blog para la clase de Fisica 1."
+  - text: "Aqui ira algo que describa"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -107,9 +107,9 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: False
 
-post-preview-words: 50
+post-preview-words: 96
 
-paginate: 10
+paginate: 5
 
 email-share: True
 fb-share: True
@@ -146,7 +146,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "negus.marko@gmail.com"
+email: "your@email.here"
 
 ################
 # Author Blurb #
