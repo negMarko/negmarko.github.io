@@ -39,9 +39,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon.png"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/fondo.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,10 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Blog para la clase de Fisica 1."
-  - text: "Aqui ira algo que describa"
+  - text: "Blog de apoyo para Física 1"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/escritorio.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -94,12 +93,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
+icon-36p: "/img/web-app/icon0.png"
+icon-48p: "/img/web-app/icon1.png"
+icon-72p: "/img/web-app/icon2.png"
+icon-96p: "/img/web-app/icon3.png"
+icon-144p: "/img/web-app/icon4.png"
+icon-192p: "/img/web-app/icon5.png"
 
 ########
 # Blog #
@@ -157,7 +156,7 @@ email: "negus.marko@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/giphy.gif"
 
 ##################
 # Social Buttons #
@@ -177,7 +176,7 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: "/img/sisi.gif"
 
 ##################
 # GPG on Keybase #
