@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/fisica0.png"
+black-favicon: "/img/web-app/fisica0.png"
 
 background-img: "../img/intro-bg.jpg"
 
