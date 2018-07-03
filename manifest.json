@@ -38,6 +38,6 @@
       "type": "image/png"
     }
   ],
-  "start_url": "{{site.url}}{{site.baseurl}}",
+  "start_url": "{{site.url}}{{site.baseurl}}/index.html",
   "display": "fullscreen"
 }
